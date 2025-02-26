@@ -4,7 +4,7 @@
 - 💞️ I’m open to collaborate on anything as long as it intrigues me.
 - 📫 ping me on my mail vinayakthakurrvk@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a jack of all trades. I pick up skills required for solving a particular problem.
+- ⚡ Fun fact: I'm a jack of all trades. I pick up skills required to solve a particular problem.
 
 <!---
 Cobrachainsaw/Cobrachainsaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
